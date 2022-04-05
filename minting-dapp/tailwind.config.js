@@ -12,7 +12,7 @@ module.exports = {
             neutral: colors.slate,
             primary: colors.slate,
             primarytxt: colors.white,
-            warning: colors.yellow,
+            warning: colors.red,
             warningtxt: colors.black,
             error: colors.red,
             errortxt: colors.white,
