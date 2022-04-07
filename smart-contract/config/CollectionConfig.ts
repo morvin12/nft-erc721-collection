@@ -12,7 +12,7 @@ const CollectionConfig: CollectionConfigInterface = {
   contractName: 'SVTFoundersCard',
   tokenName: 'SVT Founders Card',
   tokenSymbol: 'SVT',
-  hiddenMetadataUri: 'ipfs://QmWvEAi5Yt554YgVFZq74nUT9jUjv1z89F3BAxSfA1Ugcv/hidden.json',
+  hiddenMetadataUri: 'ipfs://QmU5jcqsbr6ZnzL4yHo9fyYdzkt2QT33KB5qFKvkqdnNEy/hidden.json',
   maxSupply: 100,
   whitelistSale: {
     price: 0,
