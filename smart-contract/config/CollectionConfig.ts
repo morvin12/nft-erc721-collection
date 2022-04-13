@@ -12,11 +12,11 @@ const CollectionConfig: CollectionConfigInterface = {
   contractName: 'SVTFoundersCard',
   tokenName: 'SVT Founders Card',
   tokenSymbol: 'SVT',
-  hiddenMetadataUri: 'ipfs://QmU5jcqsbr6ZnzL4yHo9fyYdzkt2QT33KB5qFKvkqdnNEy/hidden.json',
-  maxSupply: 100,
+  hiddenMetadataUri: 'ipfs://QmUZ6J5SSVVyuCjMyJnb2y3NA8nYd6wgtRSyHqnSAH5Jey/hidden.json',
+  maxSupply: 200,
   whitelistSale: {
     price: 0,
-    maxMintAmountPerTx: 50,
+    maxMintAmountPerTx: 100,
   },
   preSale: {
     price: 0.25,
@@ -24,7 +24,7 @@ const CollectionConfig: CollectionConfigInterface = {
   },
   publicSale: {
     price: 0.75,
-    maxMintAmountPerTx: 5,
+    maxMintAmountPerTx: 10,
   },
   contractAddress: "0xc679f12eb81336C42C63A63C8e0DC8e80854b31E",
   marketplaceIdentifier: 'svt-nft-token',
